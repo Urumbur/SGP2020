@@ -1,25 +1,28 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import TopBar from './TopBar';
+import HomeScreen from './HomeScreen'
 
 class App extends Component {
+  constructor() {
+    super();
+    this.state = {
+      nextGP: function() {
+        const date1 = new Date();
+        const date2 = new Date(2019,5,18);
+        const diff = date2.getTime() - date1.getTime();
+        const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+        return days;
+      },
+      placeGP: 'Warsaw',
+      dateGP: '18.05.2018'
+      }
+  }  
+
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+      <div className="wrapper">
+        <TopBar/>
+        <HomeScreen nextGP={this.state.nextGP()} placeGP={this.state.placeGP} dateGP={this.state.dateGP}/>
       </div>
     );
   }

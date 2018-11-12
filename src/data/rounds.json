@@ -1,0 +1,74 @@
+{
+    "rounds" : [
+        {
+            "id" : 1,
+            "country" : "Poland",
+            "city" : "Warsaw",
+            "date" : "18/05",
+            "flag" : ".src/img/Poland.png"
+        },
+        {
+            "id" : 2,
+            "country" : "Slovenia",
+            "city" : "Krsko",
+            "date" : "01/06",
+            "flag" : ".src/img/Slovenia.png"
+        },
+        {
+            "id" : 3,
+            "country" : "Czech",
+            "city" : "Praga",
+            "date" : "15/06",
+            "flag" : ".src/img/Czech.png"
+        },
+        {
+            "id" : 4,
+            "country" : "Sweden",
+            "city" : "Hallstavik",
+            "date" : "06/07",
+            "flag" : ".src/img/Sweden.png"
+        },
+        {
+            "id" : 5,
+            "country" : "Poland",
+            "city" : "Wrocław",
+            "date" : "03/08",
+            "flag" : ".src/img/Poland.png"
+        },
+        {
+            "id" : 6,
+            "country" : "Sweden",
+            "city" : "Malilla",
+            "date" : "17/08",
+            "flag" : ".src/img/Sweden.png"
+        },
+        {
+            "id" : 7,
+            "country" : "Germany",
+            "city" : "Teterow",
+            "date" : "31/08",
+            "flag" : ".src/img/Germany.png"
+        },
+        {
+            "id" : 8,
+            "country" : "Denmark",
+            "city" : "Vojens",
+            "date" : "07/09",
+            "flag" : ".src/img/Denmark.png"
+        },
+        {
+            "id" : 9,
+            "country" : "Great Britain",
+            "city" : "Cardiff",
+            "date" : "18/05",
+            "flag" : ".src/img/Great Britain.png"
+        },
+        {
+            "id" : 10,
+            "country" : "Poland",
+            "city" : "Toruń",
+            "date" : "05/10",
+            "flag" : ".src/img/Poland.png"
+        }
+    ]
+}

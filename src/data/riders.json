@@ -1,0 +1,109 @@
+{
+    "riders" : [
+        {        
+            "id" : 1,
+            "name" : "Tai Woffinden",
+            "country" : "Great Britain",
+            "points" : 0,
+            "flag" : "../img/Great Britain.svg"
+        },
+        {
+            "id" : 2,
+            "name" : "Bartosz Zmarzlik",
+            "country" : "Poland",
+            "points" : 0,
+            "flag" : "../img/Poland.svg"
+        },
+        {
+            "id" : 3,
+            "name" : "Fredrik Lindgren",
+            "country" : "Sweden",
+            "points" : 0,
+            "flag" : "../img/Sweden.svg"
+        },
+        {
+            "id" : 4,
+            "name" : "Maciej Janowski",
+            "country" : "Poland",
+            "points" : 0,
+            "flag" : "../img/Poland.svg"
+        },
+        {
+            "id" : 5,
+            "name" : "Greg Hancock",
+            "country" : "USA",
+            "points" : 0,
+            "flag" : "../img/USA.svg"
+        },
+        {
+            "id" : 6,
+            "name" : "Artiom Łaguta",
+            "country" : "Russia",
+            "points" : 0,
+            "flag" : "../img/Russia.svg"
+        },
+        {
+            "id" : 7,
+            "name" : "Jason Doyle",
+            "country" : "Australia",
+            "points" : 0,
+            "flag" : "../img/Australia.svg"
+        },
+        {
+            "id" : 8,
+            "name" : "Emil Sajfutdinow",
+            "country" : "Russia",
+            "points" : 0,
+            "flag" : "../img/Russia.svg"
+        },
+        {
+            "id" : 9,
+            "name" : "Patryk Dudek",
+            "country" : "Poland",
+            "points" : 0,
+            "flag" : "../img/Poland.svg"
+        },
+        {
+            "id" : 10,
+            "name" : "Matej Zagar",
+            "country" : "Slovenia",
+            "points" : 0,
+            "flag" : "../img/Slovenia.svg"
+        },
+        {
+            "id" : 11,
+            "name" : "Martin Vaculik",
+            "country" : "Slovakia",
+            "points" : 0,
+            "flag" : "../img/Slovakia.svg"
+        },
+        {
+            "id" : 12,
+            "name" : "Janusz Kołodziej",
+            "country" : "Poland",
+            "points" : 0,
+            "flag" : "../img/Poland.svg"
+        },
+        {
+            "id" : 13,
+            "name" : "Niels-Kristian Iversen",
+            "country" : "Denmark",
+            "points" : 0,
+            "flag" : "../img/Denamrk.svg"
+        },
+        {
+            "id" : 14,
+            "name" : "Antonio Lindback",
+            "country" : "Sweden",
+            "points" : 0,
+            "flag" : "../img/Sweden.svg"
+        },
+        {
+            "id" : 15,
+            "name" : "Leon Madsen",
+            "country" : "Denmark",
+            "points" : 0,
+            "flag" : "../img/Denamrk.svg"
+        }
+    ]  
+}
