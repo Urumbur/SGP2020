@@ -2,108 +2,108 @@
     "riders" : [
         {        
             "id" : 1,
-            "name" : "Tai Woffinden",
-            "country" : "Great Britain",
-            "points" : 0,
-            "flag" : "../img/Great Britain.svg"
-        },
-        {
-            "id" : 2,
             "name" : "Bartosz Zmarzlik",
             "country" : "Poland",
             "points" : 0,
-            "flag" : "../img/Poland.svg"
+            "number": 95
+        },
+        {
+            "id" : 2,
+            "name" : "Leon Madsen",
+            "country" : "Denmark",
+            "points" : 0,
+            "number": 30
         },
         {
             "id" : 3,
-            "name" : "Fredrik Lindgren",
-            "country" : "Sweden",
+            "name" : "Emil Sajfutdinow",
+            "country" : "Russia",
             "points" : 0,
-            "flag" : "../img/Sweden.svg"
+            "number": 89
         },
         {
             "id" : 4,
-            "name" : "Maciej Janowski",
-            "country" : "Poland",
+            "name" : "Fredrik Lindgren",
+            "country" : "Sweden",
             "points" : 0,
-            "flag" : "../img/Poland.svg"
+            "number": 66
         },
         {
             "id" : 5,
-            "name" : "Greg Hancock",
-            "country" : "USA",
+            "name" : "Martin Vaculik",
+            "country" : "Slovakia",
             "points" : 0,
-            "flag" : "../img/USA.svg"
+            "number": 54
         },
         {
             "id" : 6,
-            "name" : "Artiom Łaguta",
-            "country" : "Russia",
+            "name" : "Maciej Janowski",
+            "country" : "Poland",
             "points" : 0,
-            "flag" : "../img/Russia.svg"
+            "number": 71
         },
         {
             "id" : 7,
             "name" : "Jason Doyle",
             "country" : "Australia",
             "points" : 0,
-            "flag" : "../img/Australia.svg"
+            "number": 69
         },
         {
             "id" : 8,
-            "name" : "Emil Sajfutdinow",
-            "country" : "Russia",
-            "points" : 0,
-            "flag" : "../img/Russia.svg"
-        },
-        {
-            "id" : 9,
             "name" : "Patryk Dudek",
             "country" : "Poland",
             "points" : 0,
-            "flag" : "../img/Poland.svg"
+            "number": 692
         },
         {
-            "id" : 10,
+            "id" : 9,
             "name" : "Matej Zagar",
             "country" : "Slovenia",
             "points" : 0,
-            "flag" : "../img/Slovenia.svg"
+            "number": 55
         },
         {
-            "id" : 11,
-            "name" : "Martin Vaculik",
-            "country" : "Slovakia",
-            "points" : 0,
-            "flag" : "../img/Slovakia.svg"
-        },
-        {
-            "id" : 12,
-            "name" : "Janusz Kołodziej",
-            "country" : "Poland",
-            "points" : 0,
-            "flag" : "../img/Poland.svg"
-        },
-        {
-            "id" : 13,
+            "id" : 10,
             "name" : "Niels-Kristian Iversen",
             "country" : "Denmark",
             "points" : 0,
-            "flag" : "../img/Denamrk.svg"
+            "number": 88
         },
         {
-            "id" : 14,
+            "id" : 11,
+            "name" : "Artem Łaguta",
+            "country" : "Russia",
+            "points" : 0,
+            "number": 222
+        },
+        {
+            "id" : 12,
             "name" : "Antonio Lindback",
             "country" : "Sweden",
             "points" : 0,
-            "flag" : "../img/Sweden.svg"
+            "number": 85
+        },
+        {
+            "id" : 13,
+            "name" : "Tai Woffinden",
+            "country" : "Great Britain",
+            "points" : 0,
+            "number": 108
+        },
+        {
+            "id" : 14,
+            "name" : "Max Fricke",
+            "country" : "Australia",
+            "points" : 0,
+            "number": 46
         },
         {
             "id" : 15,
-            "name" : "Leon Madsen",
-            "country" : "Denmark",
+            "name" : "Greg Hancock",
+            "country" : "USA",
             "points" : 0,
-            "flag" : "../img/Denamrk.svg"
+            "number": 45
         }
     ]  
 }

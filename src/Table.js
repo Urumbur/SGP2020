@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './style.css';
 import Riders from './data/riders';
 import {getFlag} from './getFlag';
 
@@ -12,9 +11,9 @@ class Table extends Component {
                 return (
                     <div key={id}>
                         <p className="table__render">
-                            <span>{++id}</span>
-                            <span className="round__flag"><img src={flag} alt=""/>{rider.name}</span>
-                            <span>{rider.points} pkt</span>
+                            <span className="index">{++id}</span>
+                            <span className="round__flag"><img src={flag} alt=""/>#{rider.number} {rider.name}</span>
+                            <span className="pkt">{rider.points}</span>
                         </p>
                     </div> 
                 )
@@ -26,6 +25,11 @@ class Table extends Component {
         return (
             <div className="table riders">
                 <h1 className="table__header">Tabela Mistrzostw Świata</h1>
+                <p className="table__head">
+                    <span className="poz">POZ</span>
+                    <span className="rider">ZAWODNIK</span>
+                    <span className="pkt">PKT</span>
+                </p>
                 {this.RenderRidersList()}
             </div>
         );
