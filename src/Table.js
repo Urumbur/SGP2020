@@ -12,7 +12,7 @@ const Table = () => {
             <div key={id}>
                 <p className="table__render">
                     <span className="index">{++id}</span>
-                    <span className="round__flag"><img src={flag} alt=""/>#{rider.number} {rider.name}</span>
+                    <span className="round__flag"><img src={flag} alt=""/>{rider.name}&nbsp;<em>#{rider.number}</em></span>
                     <span className="pkt">{rider.points}</span>
                 </p>
             </div> 

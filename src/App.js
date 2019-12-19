@@ -6,12 +6,11 @@ import { BrowserRouter as Router, Route} from 'react-router-dom';
 import Gp from './Gp';
 
 const App = () => {
-
-  return ( 
+  return (
     <Router>
       <div className="wrapper">
-        <TopBar/>
-        <Route exact path="/" component={HomeScreen}/> 
+        <TopBar />
+        <Route exact path="/" component={HomeScreen} /> 
         <Route path="/Gp/:parametr" component={Gp} />
       </div>
     </Router>

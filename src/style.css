@@ -39,8 +39,6 @@ a {
     position: absolute;
     right: 0;
     top: 0;
-    /* display: none; */
-    /* jak bedzie potrzeba zeby zrobic menu */
     display: flex;
     justify-content: center;
     flex-direction: column;
